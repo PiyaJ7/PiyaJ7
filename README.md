@@ -6,11 +6,17 @@
 
 - 🔭 I’m currently working on [My portfolio design](https://github.com/PiyaJ7/Personal-Portfolio)
 
-- 🌱 I’m currently learning **Javascript, Java, Phython**
+- 🎓 I’m currently studying at **Unversity of Sri Jayewardenepura.**
+
+- 🌱 I’m currently learning **Javascript, Java & Phython**
+
+- 👯 I’m looking to collaborate on **Open Source Projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PiyaJ7](https://github.com/PiyaJ7)
 
 - 📫 How to reach me **jayodya7desaram@gmail.com**
+
+- ⚡ I love **Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

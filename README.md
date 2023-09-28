@@ -39,6 +39,11 @@
 
 [![An image of @piyaj7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/piyaj7)](https://holopin.io/@piyaj7)
 
+<!---
+PiyaJ7/PiyaJ7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=610&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;">
 </h3>

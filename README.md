@@ -34,9 +34,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyaj7&" alt="piyaj7" /></p>
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=piyaj7&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
+### hacktoberfest 2023:
 [![An image of @piyaj7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/piyaj7)](https://holopin.io/@piyaj7)
 
 <!---

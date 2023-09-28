@@ -37,6 +37,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=piyaj7&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
+[![An image of @piyaj7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/piyaj7)](https://holopin.io/@piyaj7)
+
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=610&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;">
 </h3>

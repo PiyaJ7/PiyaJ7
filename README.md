@@ -10,7 +10,7 @@
 
 - 🎓 I’m currently studying at **Unversity of Sri Jayewardenepura.**
 
-- 🌱 I’m currently learning **Javascript, Java & Phython**
+- 🌱 I’m currently learning **Javascript & Java**
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 

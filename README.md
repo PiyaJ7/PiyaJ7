@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyaj7&label=Profile%20views&color=0e75b6&style=flat" alt="piyaj7" /> </p>
 
-- 🔭 I’m currently working on [Salon Website](https://github.com/PiyaJ7/Salon-Website) 
+- 🔭 I’m currently working on Final Year Research 
 
 - 🎓 I’m currently studying at **Unversity of Sri Jayewardenepura.**
 
-- 🌱 I’m currently learning **Javascript & React**
+- 🌱 I’m currently learning **Python & Odoo**
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 

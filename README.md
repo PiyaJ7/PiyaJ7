@@ -1,24 +1,22 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=610&height=70&duration=5000&lines=Hi+👋,+I'm+Piyamini+Jayodya+De+Saram;" />
 </h1>
-<h3 align="center"><img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="80">Undergraduate | BSc(Hons) in Computer Science at University of Sri Jayewardenepura</h3>
+<h3 align="center"><img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="80">AI/ML(MLOps) & Data Engineer | BSc(Hons) in Computer Science at University of Sri Jayewardenepura</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyaj7&label=Profile%20views&color=0e75b6&style=flat" alt="piyaj7" /> </p>
 
-- 🔭 I’m currently working on Final Year Research 
+- 🔭 **AI/ML Engineer at Enliven Designers (Pvt) Ltd**, specializing in building intelligent solutions with Machine Learning, Data Engineering, and AI-driven applications.
 
-- 🎓 I’m currently studying at **Unversity of Sri Jayewardenepura.**
+- 🎓 **B.Sc. (Hons) in Computer Science**, at University of Sri Jayewardenepura - **Second Class Upper Division.**
 
-- 🌱 I’m currently learning **Python & Odoo**
+- 🌱 Currently exploring **Data Engineering, Cloud Computing (AWS & Azure), Linux systems, and Odoo development**.
 
-- 👯 I’m looking to collaborate on **Open Source Projects.**
+- ⚡ Passionate about leveraging AI to solve real-world problems, while continuously learning and sharing knowledge.
 
 - 👨‍💻 All of my projects are available at [https://github.com/PiyaJ7](https://github.com/PiyaJ7)
 
 - 📫 How to reach me **jayodya7desaram@gmail.com**
-
-- ⚡ I love **Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

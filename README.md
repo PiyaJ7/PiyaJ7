@@ -1,16 +1,16 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=610&height=70&duration=5000&lines=Hi+👋,+I'm+Piyamini+Jayodya+De+Saram;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=610&height=70&duration=5000&lines=Hi+👋,+I'm+Piyamini+de+Saram;" />
 </h1>
-<h3 align="center"><img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="80">AI/ML(MLOps) & Data Engineer | BSc(Hons) in Computer Science at University of Sri Jayewardenepura</h3>
+<h3 align="center"><img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="80">AI/ML Engineer | BSc(Hons) in Computer Science at University of Sri Jayewardenepura</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyaj7&label=Profile%20views&color=0e75b6&style=flat" alt="piyaj7" /> </p>
 
-- 🔭 **AI/ML Engineer at Enliven Designers (Pvt) Ltd**, specializing in building intelligent solutions with Machine Learning, Data Engineering, and AI-driven applications.
+- 🔭 **AI/ML Engineer at Deep Data Insight**, specializing in building intelligent solutions with Machine Learning, and AI-driven applications.
 
 - 🎓 **B.Sc. (Hons) in Computer Science**, at University of Sri Jayewardenepura - **Second Class Upper Division.**
 
-- 🌱 Currently exploring **Data Engineering, Cloud Computing (AWS & Azure), Linux systems, and Odoo development**.
+- 🌱 Currently exploring **AI/ML, Data Engineering, Cloud Computing (AWS), Linux systems, and Odoo development**.
 
 - ⚡ Passionate about leveraging AI to solve real-world problems, while continuously learning and sharing knowledge.
 
